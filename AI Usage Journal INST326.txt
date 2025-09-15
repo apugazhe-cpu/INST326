@@ -6,4 +6,7 @@ apugazhe@terpmail.umd.edu
 Section 0302
 
 Week 1
-This week I only used AI to check my linear algebra homework to see if I made any mistakes or not. To my surprise I was actually right with everything. I asked Clause to use the same method I used for some of the problems and I was right. Here is a link to the AI chat: https://claude.ai/chat/e50ca981-1fc6-41e2-ab9a-9f4c7433727a. I went through my professor’s lecture recordings and did my best to follow each step one by one.
+This week I only used AI to check my linear algebra homework to see if I made any mistakes or not. 
+To my surprise I was actually right with everything. I asked Clause to use the same method I used for some of the problems and I was right. 
+Here is a link to the AI chat: https://claude.ai/chat/e50ca981-1fc6-41e2-ab9a-9f4c7433727a. 
+I went through my professor’s lecture recordings and did my best to follow each step one by one.
